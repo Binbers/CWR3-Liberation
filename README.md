@@ -12,4 +12,4 @@ Requirements:\
 *Cold War Rearmed III - Soviet Naval Infantry\
 *Cold War Rearmed III - Malden Islands\
 <br/>
-Credits to Psycho for AIS revive, and Asaayu for the Custom Cover script.
+Credits to Wyqer for KP Liberation, Psycho for AIS revive system, and Asaayu for the Custom Cover script.
