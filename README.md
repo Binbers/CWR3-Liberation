@@ -10,4 +10,6 @@ Requirements:\
 *Cold War Rearmed III - British Armed Forces\
 *Cold War Rearmed III - Soviet Airborne Forces\
 *Cold War Rearmed III - Soviet Naval Infantry\
-*Cold War Rearmed III - Malden Islands
+*Cold War Rearmed III - Malden Islands\
+<br/>
+Credits to Psycho for AIS revive, and Asaayu for the Custom Cover script.
